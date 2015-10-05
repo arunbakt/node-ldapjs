@@ -11,7 +11,7 @@
     "Patrick Mooney <patrick.f.mooney@gmail.com>",
     "Matt Simerson <matt@tnpi.net>"
   ],
-  "name": "ldapjs",
+  "name": "c-ldapjs",
   "homepage": "http://ldapjs.org",
   "description": "LDAP client and server APIs",
   "version": "0.7.1",
@@ -31,7 +31,7 @@
   "dependencies": {
     "asn1": "0.2.2",
     "assert-plus": "0.1.5",
-    "bunyan": "1.4.0",
+    "bunyan": "1.5.1",
     "dashdash": "1.10.0",
     "backoff": "2.4.1",
     "ldap-filter": "0.2.2",
